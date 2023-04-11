@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Register with a registered username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be1c291e-2072-4328-a530-0bee0b05454b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_See video tutorial with user not login to app using search box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e820aa89-16fe-4bd7-8a03-a00ef52d7986</testCaseGuid>
+</TestCaseEntity>

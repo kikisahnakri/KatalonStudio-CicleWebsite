@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Login with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfa0a08b-df6b-4ed6-9ac5-54d833c925d2</testCaseGuid>
+</TestCaseEntity>
